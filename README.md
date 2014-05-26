@@ -1,7 +1,27 @@
 food-free-at-last
 =================
 
-Food-Free at Last: How I Learned to Eat Air
+Welcome to my series of GitHub novels.
+
+As a ex-hacker turned novelist, I license all my work Creative Commons. So why not release my work on GitHub?
+
+If you like the book, hit me up with some Bitcoin: FIXME
+
+And if you're broke? Tell a friend. Or even better, leave a review. :)
+
+See HOWTO for conversion instructions.
+
+
+book details
+============
+
+Title: Food-Free at Last: How I Learned to Eat Air
+
+Genre: Political Satire
+
+Word Count: 10,000
+
+Book Description:
 
 
 Get the Monkey Off Your Back
