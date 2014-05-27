@@ -81,7 +81,7 @@ Peace.”* —the Nobel Committee
 * The Twelve Steps to Food Freedom — *Anyone Can Do It!*
 
 * The Hidden Menace in Our Society That Can Prevent You From Eating 
-Air — *and How We as a Nation can Overcome It!*
+Air — *and How We as a Nation Can Overcome It!*
 
 
 **About the Author**
